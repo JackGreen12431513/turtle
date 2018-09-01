@@ -1,0 +1,35 @@
+-=Message Logs=-
+-=If Message is null, its an embed. ignore
+412268614696304642/Jack 🌹👑#7908 - woooop (Sat Sep 01 2018 19:09:46 GMT+0100 (GMT Summer Time))
+412268614696304642/Jack 🌹👑#7908 - $_verify (Sat Sep 01 2018 19:09:50 GMT+0100 (GMT Summer Time))
+485121768420540426/Turtle#2028 - <@412268614696304642>, you already have a token! (Sat Sep 01 2018 19:09:50 GMT+0100 (GMT Summer Time))
+412268614696304642/Jack 🌹👑#7908 - <@485121768420540426> (Sat Sep 01 2018 19:10:01 GMT+0100 (GMT Summer Time))
+485121768420540426/Turtle#2028 -  (Sat Sep 01 2018 19:10:02 GMT+0100 (GMT Summer Time))
+412268614696304642/Jack 🌹👑#7908 - $_tord (Sat Sep 01 2018 19:10:32 GMT+0100 (GMT Summer Time))
+412268614696304642/Jack 🌹👑#7908 - $_tord join (Sat Sep 01 2018 19:10:37 GMT+0100 (GMT Summer Time))
+485121768420540426/Turtle#2028 - <@412268614696304642>, joined game! (Sat Sep 01 2018 19:10:37 GMT+0100 (GMT Summer Time))
+479246196951744515/iiHxsty 🌹#9874 - $_verify (Sat Sep 01 2018 19:11:05 GMT+0100 (GMT Summer Time))
+485121768420540426/Turtle#2028 - Your random token is `z9f335prrrf1gy9v`. Do not share this, this is your only verification means.
+Note: Tokens may be regenrated. Use `$_verify lost` to get more information on this.
+
+**Please type your code below to verify** (Sat Sep 01 2018 19:11:06 GMT+0100 (GMT Summer Time))
+479246196951744515/iiHxsty 🌹#9874 - z9f335prrrf1gy9v (Sat Sep 01 2018 19:11:18 GMT+0100 (GMT Summer Time))
+479246196951744515/iiHxsty 🌹#9874 - z9f335prrrf1gy9v (Sat Sep 01 2018 19:11:22 GMT+0100 (GMT Summer Time))
+479246196951744515/iiHxsty 🌹#9874 - z9f335prrrf1gy9v (Sat Sep 01 2018 19:11:23 GMT+0100 (GMT Summer Time))
+479246196951744515/iiHxsty 🌹#9874 - z9f335prrrf1gy9v (Sat Sep 01 2018 19:11:24 GMT+0100 (GMT Summer Time))
+479246196951744515/iiHxsty 🌹#9874 - z9f335prrrf1gy9v (Sat Sep 01 2018 19:11:24 GMT+0100 (GMT Summer Time))
+479246196951744515/iiHxsty 🌹#9874 - z9f335prrrf1gy9v (Sat Sep 01 2018 19:11:24 GMT+0100 (GMT Summer Time))
+479246196951744515/iiHxsty 🌹#9874 - z9f335prrrf1gy9v (Sat Sep 01 2018 19:11:51 GMT+0100 (GMT Summer Time))
+479246196951744515/iiHxsty 🌹#9874 - $_verify (Sat Sep 01 2018 19:11:54 GMT+0100 (GMT Summer Time))
+485121768420540426/Turtle#2028 - you already have a token! (Sat Sep 01 2018 19:11:55 GMT+0100 (GMT Summer Time))
+412268614696304642/Jack 🌹👑#7908 - Supreme leader (Sat Sep 01 2018 19:12:16 GMT+0100 (GMT Summer Time))
+412268614696304642/Jack 🌹👑#7908 - wow (Sat Sep 01 2018 19:12:32 GMT+0100 (GMT Summer Time))
+412268614696304642/Jack 🌹👑#7908 - did it break? (Sat Sep 01 2018 19:12:36 GMT+0100 (GMT Summer Time))
+479246196951744515/iiHxsty 🌹#9874 - z9f335prrrf1gy9v (Sat Sep 01 2018 19:13:16 GMT+0100 (GMT Summer Time))
+479246196951744515/iiHxsty 🌹#9874 - $_verify (Sat Sep 01 2018 19:13:32 GMT+0100 (GMT Summer Time))
+485121768420540426/Turtle#2028 - Your random token is `nar8zr50snn5zz4k`. Do not share this, this is your only verification means.
+Note: Tokens may be regenrated. Use `$_verify lost` to get more information on this.
+
+**Please type your code below to verify** (Sat Sep 01 2018 19:13:32 GMT+0100 (GMT Summer Time))
+479246196951744515/iiHxsty 🌹#9874 - nar8zr50snn5zz4k (Sat Sep 01 2018 19:13:38 GMT+0100 (GMT Summer Time))
+485121768420540426/Turtle#2028 - You are now verified! (Sat Sep 01 2018 19:13:38 GMT+0100 (GMT Summer Time))
